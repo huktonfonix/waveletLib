@@ -1,0 +1,5 @@
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletLib\obj\Debug\SDRSharp.WaveletLib.csprojResolveAssemblyReference.cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletLib\bin\Debug\SDRSharp.WaveletLib.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletLib\bin\Debug\SDRSharp.WaveletLib.pdb
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletLib\obj\Debug\SDRSharp.WaveletLib.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletLib\obj\Debug\SDRSharp.WaveletLib.pdb
